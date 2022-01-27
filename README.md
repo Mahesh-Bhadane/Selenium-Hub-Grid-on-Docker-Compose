@@ -12,9 +12,9 @@
 
   This will create a selenium hub with a chrome and firefox node.
 
-![](.2022-01-27 21-22-52.png)
+![](./1.png)
 
-![](.2022-01-27 21-22-33.png)
+![](./2.png)
 
 
 
