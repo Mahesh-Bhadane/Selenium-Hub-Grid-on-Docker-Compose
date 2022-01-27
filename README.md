@@ -4,7 +4,7 @@
 
 1. Start your docker environment.
 
-2. create a docker-compose file as i have created and then save it withe the name "docker-compose.yml" .
+2. create a docker-compose file and then save it with the name "docker-compose.yml" .
 
 3. Then run a simple command as given:
 
